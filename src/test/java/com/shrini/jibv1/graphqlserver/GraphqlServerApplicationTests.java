@@ -1,10 +1,10 @@
-package com.shrini.jibv1;
+package com.shrini.jibv1.graphqlserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Jibv1ApplicationTests {
+class GraphqlServerApplicationTests {
 
 	@Test
 	void contextLoads() {

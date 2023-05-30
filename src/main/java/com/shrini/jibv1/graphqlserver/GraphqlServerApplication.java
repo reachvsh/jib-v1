@@ -1,13 +1,13 @@
-package com.shrini.jibv1;
+package com.shrini.jibv1.graphqlserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Jibv1Application {
+public class GraphqlServerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Jibv1Application.class, args);
+		SpringApplication.run(GraphqlServerApplication.class, args);
 	}
 
 }
